@@ -30,6 +30,20 @@
   margin-top: 80px;
 }
 
+/* Clase para para las imagenes de los articulos en la izquierda*/
+#img-article1{
+	width:400px;
+	height:250px;
+	padding: 10px 10px 0px 0px;
+}
+
+/* Clase para para las imagenes de los articulos en la derecha*/
+#img-article2{
+	width:400px;
+	height:250px;
+	padding: 10px 0px 0px 10px;
+}
+
 /* Clase para tamaño de los iconos de redes sociales*/
 .img-social{
   width: 40px;
